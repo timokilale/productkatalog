@@ -17,6 +17,7 @@ Track orders (coming soon)
 
 
 **FOR SELLERS**
+
 List products for sale with details and pricing
 
 Product management dashboard
