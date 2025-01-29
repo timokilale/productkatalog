@@ -1,8 +1,11 @@
 **FEATURES**
 
 **For Buyers**
+
 Browse products with responsive grid layout
+
 Search functionality with real-time filtering
+
 Sort products by price (low to high / high to low)
 Detailed product view with images and descriptions
 Shopping cart management
