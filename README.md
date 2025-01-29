@@ -1,16 +1,47 @@
-# mazaoapp
+**FEATURES**
 
-A new Flutter project.
+**For Buyers**
+Browse products with responsive grid layout
+Search functionality with real-time filtering
+Sort products by price (low to high / high to low)
+Detailed product view with images and descriptions
+Shopping cart management
+Track orders (coming soon)
 
-## Getting Started
+**For Sellers**
+List products for sale with details and pricing
+Product management dashboard
+Upload product images (coming soon)
+Track sales (coming soon)
 
-This project is a starting point for a Flutter application.
+**Authentication & User Management**
+User registration and login
+Profile management
+Guest mode browsing
+Secure Firebase authentication
 
-A few resources to get you started if this is your first Flutter project:
+**User Interface**
+Clean and intuitive design
+Responsive layout supporting various screen sizes
+Bottom navigation for easy access to key features
+Side drawer with additional options
+Dark/light theme support (coming soon)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Technical Stack**
+Frontend: Flutter
+Backend: Firebase
+Cloud Firestore for database
+Firebase Authentication for user management
+Firebase Storage for image storage (planned)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Prerequisites**
+Flutter SDK (latest version)
+Dart SDK
+Android Studio / VS Code
+
+**Installation**
+Clone the repository
+Navigate to the project directory
+Install dependencies
+Run the app
+
