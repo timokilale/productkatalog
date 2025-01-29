@@ -1,7 +1,7 @@
 **FEATURES**
 
 
-**For Buyers**
+**FOR BUYERS**
 
 Browse products with responsive grid layout
 
@@ -16,7 +16,7 @@ Shopping cart management
 Track orders (coming soon)
 
 
-**For Sellers**
+**FOR SELLERS**
 List products for sale with details and pricing
 
 Product management dashboard
@@ -26,7 +26,7 @@ Upload product images (coming soon)
 Track sales (coming soon)
 
 
-**Authentication & User Management**
+**AUTHENTICATION AND USER MANAGEMENT**
 
 User registration and login
 
@@ -37,7 +37,7 @@ Guest mode browsing
 Secure Firebase authentication
 
 
-**User Interface**
+**USER INTERFACE**
 
 Clean and intuitive design
 
@@ -50,7 +50,7 @@ Side drawer with additional options
 Dark/light theme support (coming soon)
 
 
-**Technical Stack**
+**TECHNICAL STACK**
 Frontend: Flutter
 
 Backend: Firebase
@@ -62,7 +62,7 @@ Firebase Authentication for user management
 Firebase Storage for image storage (planned)
 
 
-**Prerequisites**
+**PREREQUISITES**
 
 Flutter SDK (latest version)
 
@@ -71,7 +71,7 @@ Dart SDK
 Android Studio / VS Code
 
 
-**Installation**
+**INSTALLATION**
 
 Clone the repository
 
