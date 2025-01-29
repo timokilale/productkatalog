@@ -5,7 +5,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 class DefaultFirebaseOptions {
   static FirebaseOptions get currentPlatform {
     return FirebaseOptions(
-      apiKey: 'AIzaSyCE8K1Eu_nD-uvgTjINSG_xZfMVVVJ9JcE',
+      apiKey: '',
       authDomain: 'farmarket-1c7df.firebaseapp.com',
       projectId: 'farmarket-1c7df',
       storageBucket: 'farmarket-1c7df.appspot.com',
